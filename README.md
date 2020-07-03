@@ -31,9 +31,8 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [TG Bots Updates](https://telegram.dog/tutorialsfortg)
+* [ Group](https://telegram.dog/ironmanscave)
 
 ## Credits, and Thanks to
 
